@@ -25,3 +25,4 @@
 
 1. [『人喰い列車と髪洗う男』](stories/man-eting_train.md) 著述者 : ものえおさむ 
 2. [『死んだ隣人』](stories/The_girl_in_the_next_room.md) 著述者 : ものえおさむ
+2. [『ローステッド・ハニー』](stories/Roasted_honey.md) 著述者 : ものえおさむ
