@@ -27,3 +27,5 @@
 2. [『死んだ隣人』](stories/The_girl_in_the_next_room.md) 著述者 : ものえおさむ
 3. [『ローステッド・ハニー』](stories/Roasted_honey.md) 著述者 : ものえおさむ
 4. [『ナイト・ドリフター』](stories/Night_Drifter.md) 著述者 : ものえおさむ
+1. [『**塚**と呼ばれる坂』](stories/A_slope_called_Mound.md) 著述者 : オガワマサカズ
+1. [『黴びる部屋』](stories/A_slope_called_Mound.md) 著述者 : オガワマサカズ
