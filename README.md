@@ -32,3 +32,4 @@
 ### 著述者 : オガワマサカズ
 1. [『塚と呼ばれる坂』](stories/A_slope_called_Mound.md)
 1. [『黴びる部屋』](stories/Moldy_room.md)
+1. [『２階にいる何か、あるいは誰か』](stories/Someone_in_2ndFloor.md)
